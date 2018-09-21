@@ -1,0 +1,45 @@
+_repo: Mademoiselle-de-Scudery-sa-vie-et-sa-correspondance-avec-un-choix-de-ses-poesies_53761
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scudéry, Madeleine de
+    aliases:
+    - Scudery, Madeleine de
+    - De Scudéry, Madeleine
+    - Scudéry, Mademoiselle de (Madeleine)
+    birthdate: 1607
+    deathdate: 1701
+    gutenberg_agent_id: '47511'
+    url: http://www.gutenberg.org/2009/agents/47511
+  editors:
+  - agent_name: Boutron
+    gutenberg_agent_id: '47523'
+    url: http://www.gutenberg.org/2009/agents/47523
+  - agent_name: Rathéry, E. J. B. (Edme Jacques Benoît)
+    aliases:
+    - Rathéry, Edme Jacques Benoît
+    - Rathery, E. J. B. (Edme Jacques Benoit)
+    birthdate: 1807
+    deathdate: 1875
+    gutenberg_agent_id: '47522'
+    url: http://www.gutenberg.org/2009/agents/47522
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Poésie
+gutenberg_issued: '2016-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53761'
+  lccn: '12013027'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Scudéry, Madeleine de, 1607-1701'
+- GITenberg
+title: Mademoiselle de Scudéry, sa vie et sa correspondance, avec un choix de ses
+  poésies
+url: http://www.gutenberg.org/ebooks/53761
